@@ -1,5 +1,7 @@
 # Maria-Mariana-Varela-Cavalcanti-Souto-ITP-2025-2
-Aluno: Maria Mariana Varela Cavalcanti Souto Matrícula: 20250033894 Período: 2025.2
+Aluno: Maria Mariana Varela Cavalcanti Souto
+Matrícula: 20250033894 
+Período: 2025.2
 
 📁 Estrutura do Projeto
 projeto/: Projeto principal da unidade
