@@ -71,7 +71,7 @@ main(): A função principal que orquestra o fluxo do jogo, chamando as outras f
 ### Semana 5 - Funções (Parte 1):
 - ✅ Problema 1: Horários das rondas
 - ✅ Problema 2: Primos triplos
-- ✅ Problema 3: Pousando a sonda espacial
+- ✅ Problema 3: Pousando a sonda espacial (não fiz)
 
 ### Semana 6 - Vetores:
 - ✅ Problema 1: MEC - Correção ENEM
