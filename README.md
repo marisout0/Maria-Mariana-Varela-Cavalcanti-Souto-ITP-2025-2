@@ -1,4 +1,4 @@
-# Introdução a Técnicas de Programação - Unidade 1
+# Introdução a Técnicas de Programação - Unidade 1 e 2
 **Aluno**: Maria Mariana Varela Cavalcanti Souto
 **Matrícula**: 20250033894
 **Período**: 2025.2
@@ -11,7 +11,7 @@
 
 ## 🚀 Projeto: Jogo da velha com IA básica
 
-**Descrição**: o projeto é um jogo da velha interativo (humano vs. IA básica) e aplica os conceitos fundamentais de programação em C (estruturas de dados, controle de fluxo, funções).
+**Descrição**: o projeto da Unidade 1 é um jogo da velha interativo (humano vs. IA básica) e aplica os conceitos fundamentais de programação em C (estruturas de dados, controle de fluxo, funções). Já o projeto da Unidade 2 é um jogo de palavras cruzadas que abarca os conceitos de strings, matrizes, repetições aninhadas e ponteiros.
 
 **Repositório**: https://github.com/marisout0/Maria-Mariana-Varela-Cavalcanti-Souto-ITP-2025-2
 
@@ -39,6 +39,19 @@ verificarEmpate(): Verifica se o jogo terminou em empate.
 jogadaHumano(): Lida com a entrada e validação da jogada do jogador humano.
 jogadaIA(): Implementa a lógica básica da jogada da IA.
 main(): A função principal que orquestra o fluxo do jogo, chamando as outras funções.
+
+# 🧩 Projeto Unidade 2: Jogo de Palavras Cruzadas
+
+Este projeto é um Jogo de Palavras Cruzadas simples, desenvolvido em C para a Unidade 2 da disciplina de ITP.
+O jogo roda em interface de linha de comando e permite ao usuário adivinhar palavras com base em dicas, preenchendo um tabuleiro em formato de matriz.
+
+## 🚀 Conceitos da U2 Aplicados
+
+Este projeto foi desenvolvido para aplicar os seguintes conceitos:
+**Matrizes:** Para criar e gerenciar o tabuleiro do jogo (gabarito e tabuleiro do jogador)
+**Strings:** Para armazenar, comparar e exibir as dicas, respostas e palpites (usando `string.h`)
+**Repetições Aninhadas:** Para exibir o tabuleiro na tela e verificar a condição de vitória
+**Ponteiros e Alocação Dinâmica:** Para criar as `structs` e as strings das palavras e dicas usando `malloc()` e `free()`, garantindo o gerenciamento correto da memória e evitando *memory leaks*
 
 ## 📚 Listas de Exercícios
 **Observação:** Acabei sem querer trocando o nome de 2 arquivos, o arquivo da lista 5 na verdade remete aos exercícios da lista 6 e o arquivo da lista 6 remete aos exercícios da lista 5
@@ -79,9 +92,29 @@ main(): A função principal que orquestra o fluxo do jogo, chamando as outras f
 - ✅ Problema 2: Álbum de figurinhas
 - ✅ Problema 3: A construção da ponte
 - ✅ Problema 4: Em busca do tesouro perdido
+##Unidade 2
+### Semana 7 - Strings: 
+- ✅ Problema 1: Campo minado 1d
+- ✅ Problema 2: Detecção de placas
+- ✅ Problema 3: Openmeet
+### Semana 8 - Repetições aninhadas:
+- ✅ Problema 1: Estou com sorte(ou não)
+- ✅ Problema 2: Os dias mais chuvosos
+- ✅ Problema 3: Esse sim é piloto
+### Semana 9 - Matrizes
+- ✅ Problema 1: Campo agrícola
+- ✅ Problema 2: Sugestão de amigos
+- ✅ Problema 3: Campeonato de empates
+- ✅ Problema 4: Uma pechincha
+### Semana 10 - ponteiros
+- ✅ Problema 1:  soma de vetores
+- ✅ Problema 2: ocorrências no vetor
+- ✅ Problema 3: sopa de letrinhas
 
-## 🎯 Principais Aprendizados
+## 🎯 Principais Aprendizados Unidade 1
 Um dos meus principais aprendizados na Unidade 1 foi aprender a organizar melhor meus códigos, já que como eram várias listas e o projeto  que eu estava fazendo em vários momentos do meu dia, eu tinha que comentar nos códigos para que eu pudesse entender o que estava fazendo antes. Para mim revisitar os conceitos básicos foi muito importante principalmente a parte de arrays, a implementação de lógicas de verificação (vitória e empate), a gestão básica da entrada do usuário , que acabaram me ajudando até em outras matérias, além de ter uma oportunidade de aprender uma nova linguagem de programação.
+## 🎯 Principais Aprendizados Unidade 2
+Acho que aprendi a deixar um pouco mais complexo meus projetos, mesmo com as  dificuldades, já que lidar com ponteiros pra mim e algumas manipulações de strings foram bem desafiadoras, além disso aprendi  a usar a memória do jeito certo. Entender como malloc e free funcionam foi o mais importante
 
 ## 🔧 Ambiente de Desenvolvimento
 **Ambiente de desenvolvimento/execução:** Google Colab, que forneceu um ambiente baseado em Linux com terminal acessível para compilação e execução do código, além de um editor de texto para escrever o código C.
