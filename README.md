@@ -15,7 +15,8 @@
 
 **Repositório**: https://github.com/marisout0/Maria-Mariana-Varela-Cavalcanti-Souto-ITP-2025-2
 
-**Vídeo de Demonstração**: https://youtu.be/djTUS18Z_1I
+**Vídeo de Demonstração jogo da velha**: https://youtu.be/djTUS18Z_1I
+**Vídeo de Demontração palavras cruzadas**: https://youtu.be/8BKrTb_tNdc
 
 ### Funcionalidades Implementadas:
 -** Inicialização do Tabuleiro: ** Configura o tabuleiro do jogo da velha com espaços vazios no início de cada partida.
