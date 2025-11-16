@@ -58,9 +58,12 @@ O jogo roda em interface de linha de comando e permite ao usuário adivinhar pal
 
 Este projeto foi desenvolvido para aplicar os seguintes conceitos:
 **Matrizes:** Para criar e gerenciar o tabuleiro do jogo (gabarito e tabuleiro do jogador)
+
 **Strings:** Para armazenar, comparar e exibir as dicas, respostas e palpites (usando `string.h`)
+
 **Repetições Aninhadas:** Para exibir o tabuleiro na tela e verificar a condição de vitória
-**Ponteiros e Alocação Dinâmica:** Para criar as `structs` e as strings das palavras e dicas usando `malloc()` e `free()`, garantindo o gerenciamento correto da memória e evitando *memory leaks*
+
+**Ponteiros e Alocação Dinâmica:** Para criar as `structs` e as strings das palavras e dicas usando `malloc()` e `free()`, garantindo o gerenciamento correto da memória
 
 ## 📚 Listas de Exercícios
 **Observação:** Acabei sem querer trocando o nome de 2 arquivos, o arquivo da lista 5 na verdade remete aos exercícios da lista 6 e o arquivo da lista 6 remete aos exercícios da lista 5
