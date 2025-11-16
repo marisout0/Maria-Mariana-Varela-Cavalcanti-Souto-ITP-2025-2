@@ -56,7 +56,6 @@ O jogo roda em interface de linha de comando e permite ao usuário adivinhar pal
 
 ## 🚀 Conceitos da U2 Aplicados
 
-Este projeto foi desenvolvido para aplicar os seguintes conceitos:
 **Matrizes:** Para criar e gerenciar o tabuleiro do jogo (gabarito e tabuleiro do jogador)
 
 **Strings:** Para armazenar, comparar e exibir as dicas, respostas e palpites (usando `string.h`)
